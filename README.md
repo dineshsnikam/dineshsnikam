@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=.NET+Developer+%F0%9F%92%BC;MBA+in+IT+%F0%9F%93%9D;Creating+Smart+Web+Apps+%F0%9F%9A%80;Scalable+%7C+Secure+%7C+Clean+Code+%F0%9F%93%9A"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=.NET+Full+Stack+Developer+%F0%9F%92%BC;MBA+in+IT+%F0%9F%93%9D;Creating+Smart+Web+Apps+%F0%9F%9A%80;Scalable+%7C+Secure+%7C+Clean+Code+%F0%9F%93%9A"/>
 </p>
 
 ---
@@ -12,9 +12,9 @@
 
 <img align="right" alt="GIF" height="180px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
-- ✨ Passionate about clean architecture, smart UI, and efficient web apps
+- ✨ Passionate about full-stack development, clean architecture, and smart UI
 - 🎓 MBA in IT (Software Development) | .NET Intern Experience
-- 🚀 Building web applications with ASP.NET Core MVC, C#, SQL Server
+- 🚀 Proficient in ASP.NET Core MVC, Web API, EF Core, SQL Server, Angular, and Bootstrap
 - 🌐 Based in Nashik, India  
 - 📧 [dnikam.dev@gmail.com](mailto:dnikam.dev@gmail.com)
 - 📅 Open to collaboration, freelance & full-time opportunities
@@ -26,13 +26,19 @@
 ### 🖥️ Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+  <img src="https://img.shields.io/badge/Razor%20Pages-purple?style=for-the-badge">
 </p>
 
 ### ⚙️ Backend & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,csharp" />
-  <img src="https://img.shields.io/badge/Razor%20Pages-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=for-the-badge&logo=dotnet">
+  <img src="https://img.shields.io/badge/Web%20API-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web%20Forms-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Windows%20Forms-grey?style=for-the-badge">
   <img src="https://img.shields.io/badge/EF%20Core-darkgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LINQ-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ADO.NET-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/REST%20APIs-lightgrey?style=for-the-badge">
 </p>
 
@@ -41,6 +47,8 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server">
   <img src="https://img.shields.io/badge/SSMS-007ACC?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 </p>
 
 ---
