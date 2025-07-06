@@ -1,23 +1,20 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm <span style="color:#00bfff">Dinesh Nikam</span> 👨‍💻
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=.NET+Full+Stack+Developer+%F0%9F%92%BC;MBA+in+IT+%F0%9F%93%9D;Creating+Smart+Web+Apps+%F0%9F%9A%80;Scalable+%7C+Secure+%7C+Clean+Code+%F0%9F%93%9A"/>
-</p>
-
----
-
-## 👨‍💻 About Me
-
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm <span style="color:#00bfff">Dinesh Nikam</span> 👨‍💻 </h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=.NET+Full+Stack+Developer+%F0%9F%92%BC;MBA+in+IT+%F0%9F%93%9D;Creating+Smart+Web+Apps+%F0%9F%9A%80;Scalable+%7C+Secure+%7C+Clean+Code+%F0%9F%93%9A"/> </p>
+👨‍💻 About Me
 <img align="right" alt="GIF" height="180px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
+🎯 Full-Stack .NET Developer with a strong foundation in back-end and front-end technologies
 
-- ✨ Passionate about full-stack development, clean architecture, and smart UI
-- 🎓 MBA in IT (Software Development) | .NET Intern Experience
-- 🚀Proficient in ASP.NET, ASP.NET MVC, ASP.NET Core, Web API, .NET Framework, and .NET Core.
-- 🌐 Based in Nashik, India  
-- 📧 [dnikam.dev@gmail.com](mailto:dnikam.dev@gmail.com)
-- 📅 Open to collaboration, freelance & full-time opportunities
+🎓 MBA in IT (Software Development)
+
+🧠 Skilled in ASP.NET, ASP.NET MVC, ASP.NET Core MVC, Web API, .NET Framework, .NET Core
+
+💡 Passionate about clean architecture, scalable solutions, and intuitive UI
+
+🌍 Based in Nashik, India
+
+🤝 Open to collaborations, freelance work, and full-time roles
+
+📬 Reach me at: dnikam.dev@gmail.com
+
 
 ---
 
