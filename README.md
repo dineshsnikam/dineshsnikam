@@ -14,7 +14,7 @@
 
 - ✨ Passionate about full-stack development, clean architecture, and smart UI
 - 🎓 MBA in IT (Software Development) | .NET Intern Experience
-- 🚀 Proficient in ASP.NET Core MVC, Web API, EF Core, SQL Server, Angular, and Bootstrap
+- 🚀Proficient in ASP.NET, ASP.NET MVC, ASP.NET Core, Web API, .NET Framework, and .NET Core.
 - 🌐 Based in Nashik, India  
 - 📧 [dnikam.dev@gmail.com](mailto:dnikam.dev@gmail.com)
 - 📅 Open to collaboration, freelance & full-time opportunities
@@ -80,11 +80,13 @@
 
 ## 🏆 Certifications
 
-- 📈 Full Stack ASP.NET – IANT (2025)  
+- 📈 Full Stack ASP.NET – GSNT Nashik(2025)
+- 🧩 ASP.NET MVC – Udemy (2025)
 - 🎓 Git for Developers – Udemy (2025)  
 - 🏠 Front-End Dev – Great Learning (2024)  
 - 🧪 Intro to AI – Great Learning (2024)  
 - ✏️ C Programming – MKCL (2023)
+
 
 ---
 
