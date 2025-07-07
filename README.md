@@ -1,6 +1,8 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hello, I'm <span style="color:#00bfff">Dinesh Nikam</span> 👨‍💻 </h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=.NET+Full+Stack+Developer+%F0%9F%92%BC;MBA+in+IT+%F0%9F%93%9D;Creating+Smart+Web+Apps+%F0%9F%9A%80;Scalable+%7C+Secure+%7C+Clean+Code+%F0%9F%93%9A"/> </p>
-👨‍💻 About Me
-<img align="right" alt="GIF" height="180px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
+<h2>👨‍💻 About Me</h2>
+  
+<img align="right" alt="GIF" height="230px" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
+
 🎯 Full-Stack .NET Developer with a strong foundation in back-end and front-end technologies
 
 🎓 MBA in IT (Software Development)
@@ -15,9 +17,7 @@
 
 📬 Reach me at: dnikam.dev@gmail.com
 
-
 ---
-
 ## 🚀 Tech Stack & Tools
 
 ### 🖥️ Frontend
